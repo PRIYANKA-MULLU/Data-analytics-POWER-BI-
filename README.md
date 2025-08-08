@@ -1,4 +1,6 @@
-🛒 Blinkit Sales Analysis Dashboard - Power BI Project
+🛒 **Blinkit Sales Analysis Dashboard - Power BI Project***
+
+
 This Power BI project presents a comprehensive sales performance analysis for Blinkit (India's Last Minute App) using mock data. The dashboard is designed to provide clear insights into total sales, outlet types, item performance, fat content, and location-based trends.
 
 📊 Dashboard Features
