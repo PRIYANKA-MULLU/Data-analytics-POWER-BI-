@@ -43,11 +43,16 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/your-username/blinkit.git
+
+git clone https://github.com/PRIYANKA-MULLU/blinkit.git
+
 cd blinkit
+
 npm install
+
 npm start
-🤝 Contributing
+
+# 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or enhance.
 
 # 📜 License
